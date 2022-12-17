@@ -1,5 +1,16 @@
 # Changelog
 
+## [v2.25.0](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.25.0) (2022/12/17)
+
+[Full Changelog](https://github.com/pocifik/PathOfBuilding-pogcifik/commits/v2.25.0)
+
+<!-- Release notes generated using configuration in .github/release.yml at dev -->
+
+## What's Changed
+### Other changes
+- EHP Search for Build Pricer [\#1](https://github.com/pocifik/PathOfBuilding-pogcifik/pull/1) ([pocifik](https://github.com/pocifik))
+
+
 ## [v2.24.0](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.24.0) (2022/12/14)
 
 [Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.23.0...v2.24.0)
